@@ -1,4 +1,4 @@
-# Kaggle GPU Instances to MongoDB for GSM8K Response Generation
+# Scalable GSM8K Response Generator
 
 This repository facilitates the use of multiple free Kaggle 2xT4 GPU instances connected to a central MongoDB database (free tier) to generate and refine responses to tasks such as GSM8K math questions. The generated responses can be used to create synthetic training data or benchmark a model on GSM8K.
 
